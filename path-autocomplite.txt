@@ -1,0 +1,11 @@
+    path-autocomplete - нужно установить
+    
+
+    key f1 -> open settings json
+    
+    add to end
+    "path-autocomplete.pathMappings" : {
+        "@img" : "${folder}/src/img",
+        "@scss" : "${folder}/src/scss",
+        "@js" : "${folder}/src/js",
+    }
